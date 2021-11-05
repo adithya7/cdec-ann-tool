@@ -1,0 +1,74 @@
+{
+  "title": "US B-2 bomber crash in Guam caused by moisture on sensors",
+  "id": "107493",
+  "revision_id": "3129677",
+  "date": "June 6, 2008",
+  "location": null,
+  "text": "The final report into the crash of a B-2 Spirit bomber belonging to the United States Air Force (USAF) in Guam has determined that the crash was caused by moisture on sensors which caused the jet to receive inaccurate data. It was the first loss of a B-2, which costs US$1.4 billion. The aircraft, belonging to USAF's 509th Air Wing and carrying the name ''Spirit of Kansas'', was attempting takeoff from Andersen Air Force Base on February 23 this year when the crash occurred. Moisture in three of the 24 air pressure sensors caused the sensors, all on the port side, to feed back inaccurate data to the flight computer. The aircraft crew believed the bomber had reached the takeoff speed of 140 knots when in reality it was traveling ten knots slower and rotated for takeoff. The malfunction also meant that the sensors showed the plane to be in a nose down position, causing it to command a high level of pitch, around 30 degrees. This, combined with the low takeoff speed, caused the aircraft to stall and veer to the left. Major Ryan Link and Captain Justin Grieve, who were piloting, ejected as the left wingtip struck the ground. They were injured, with Grieve suffering compression fractures to his spine, but survived. The wreckage came to rest to the runway's left. The report also noted that more effective communications could have prevented the crash. The vulnerability of the sensors to moisture was first detected by aircrews and maintenance staff in 2006, at which time it was discovered that turning on the 500 degree pitot heat prior to sensor calibration would evaporate the water and cause a return to normal readings. However, this was never formally noted and so the pilots of the aircraft were unaware of the potential problem or its solution. They were also unaware that, at an earlier time at the same base, another B-2's takeoff roll was aborted at 70 knots due to abnormal indications. After inspection by maintenance personnel, it was determined that moisture in the sensor system was to blame. After turning on the pitot heat the aircraft took off without incident.",
+  "related": [
+    "https://en.wikinews.org/wiki/US_B-2_stealth_bomber_crashes_in_Guam"
+  ],
+  "sources": [
+    {
+      "url": "http://www.avweb.com/avwebflash/news/B2_spirit_crash_update_198056-1.html",
+      "title": "Update: B-2 Crash Caused By Waterlogged Sensors",
+      "author": "Glenn Pew",
+      "pub": "AvWeb",
+      "date": "June 5, 2008"
+    },
+    {
+      "url": "http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=defense&id=news/B-2060608.xml&headline=Forgotten%20Lesson%20Caused%20B-2%20Crash",
+      "title": "Forgotten Lesson Caused B-2 Crash",
+      "pub": "Aviation Week",
+      "date": "June 6, 2008"
+    }
+  ],
+  "sister": [],
+  "categories": [
+    "Disasters and accidents",
+    "United States",
+    "Guam",
+    "Transport",
+    "Aviation",
+    "Military",
+    "Iain Macdonald (Wikinewsie)",
+    "Oceania",
+    "Mariana Islands",
+    "Micronesia",
+    "Aerodynamic stalls"
+  ],
+  "wikiEntities": {
+    "wikinews": [
+      "United States",
+      "Guam"
+    ],
+    "wikipedia": [
+      "B-2 Spirit",
+      "USAF",
+      "United States Dollar",
+      "Andersen Air Force Base",
+      "Aerodynamic stall",
+      "compression fracture",
+      "Pitot-static system"
+    ]
+  },
+  "similar_articles_found": [
+    [
+      "110054",
+      "2008-07-21",
+      "Search underway after US B-52 bomber crashes off Guam's coast"
+    ],
+    [
+      "110100",
+      "2008-07-22",
+      "US military confirms three deaths after B-52 crash off Guam"
+    ]
+  ],
+  "related_articles_gold": [
+    [
+      "100201",
+      "2008-02-23",
+      "US B-2 stealth bomber crashes in Guam"
+    ]
+  ]
+}

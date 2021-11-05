@@ -1,0 +1,16 @@
+.link_edit_connector {
+  background: #555;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+}
+
+.link_drag_arrow {
+  position: absolute;
+  bottom: -3px;
+  right: 0;
+  transform: rotate(-90deg);
+
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-top: 7px solid #555;
+}
